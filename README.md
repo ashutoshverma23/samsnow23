@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @samsnow23
+- 👋 Hi, I’m @samsnow
+
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning c and c++.
 - 💞️ I’m looking to collaborate on ...
